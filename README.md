@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Tolotra Niaina
+👋 Bonjour, je suis Tolotra Niaina
 
 ### 💻 Langages et Technologies Maîtrisés
 
